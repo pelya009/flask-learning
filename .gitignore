@@ -7,6 +7,6 @@ __pycache__/
 # mypy
 .mypy_cache/
 .idea/
-venv/
-venv_auto/
 .DS_Store
+/venv_auto/
+/venv/
